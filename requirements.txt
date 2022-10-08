@@ -1,0 +1,4 @@
+pywebio==1.6.3
+tornado==6.2
+ua-parser==0.16.1
+user-agents==2.2.0

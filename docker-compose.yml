@@ -1,0 +1,8 @@
+version: '3'
+services:
+  chatroom:
+    container_name: chatroom
+    image: chatroom
+    restart: always
+    ports:
+      - '9001:8080'
